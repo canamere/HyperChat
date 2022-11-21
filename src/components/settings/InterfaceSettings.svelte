@@ -73,6 +73,10 @@
   <Checkbox name="Show only member chat messages" store={showOnlyMemberChat} />
 </Card>
 
+<Card title="Highlighter" icon="tune">
+  <textarea name="Highlight words"></textarea>
+</Card>
+
 <Card title="Additional Options" icon="tune">
   <a
     href="https://myaccount.google.com/blocklist"
